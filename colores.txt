@@ -3,3 +3,5 @@ Azul
 Verde
 Amarillo
 Naranja
+Morado
+Rosa
